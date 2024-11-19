@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/show"
+        android:title="Characters"
+android:icon="@drawable/rick"
+        app:cnb_iconColor="@color/md_light_green_700"/>
+    <item
+        android:id="@+id/show_score"
+        android:title="My Characters"
+        android:icon="@drawable/rick"
+        app:cnb_iconColor="#FFAB00"/>
+    <item
+        android:id="@+id/create"
+        android:title="Create Characters"
+        android:icon="@drawable/rick"
+        app:cnb_iconColor="@color/md_blue_400"/>
+
+    <item
+        android:id="@+id/showCustomized"
+        android:title="Quize Characters"
+        android:icon="@drawable/rick"
+        app:cnb_iconColor="@color/md_pink_700"/>
+
+
+</menu>
